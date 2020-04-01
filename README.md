@@ -27,6 +27,9 @@ These 7 classes include Drivable, Non-Drivable, Living things, Vehicles, Road si
 - Shape of the output segmentation mask expected: [128,256]
 
 We have 1403 train images , 204 validation images and 404 test images
+## Methods
+- UNet (Obtained best results)
+- DeepLab v3+
 
 ## Results
 
